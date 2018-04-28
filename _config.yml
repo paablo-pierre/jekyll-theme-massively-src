@@ -3,12 +3,12 @@ title:              Massively
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
-baseurl: "https://paablo-pierre.github.io" # the subpath of your site, e.g. /blog
+baseurl: "https://github.io" # the subpath of your site, e.g. /blog
 url: "https://paablo-pierre.github.io/jekyll-theme-massively-src/" # the base hostname & protocol for your site
 
 defaults:
 - scope:
-    path: ''
+    path: '/'
     type: posts
   values:
     permalink: "/blog/:title/"
